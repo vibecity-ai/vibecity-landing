@@ -5,10 +5,8 @@ The landing page for [Vibe City](https://github.com/vibecity-ai/vibe-city). Plai
 
 ## Deploy
 
-Serve this folder as it is. On Vercel: Framework Preset "Other", no build command, no output directory.
+Live at https://playvibecity.com. Serve this folder as it is. On Vercel: Framework Preset "Other", no build command, no output directory.
 
-After the first deploy, replace `SITE_URL` in `index.html` with the deployed address so link previews show
-`assets/og.jpg`.
 
 ## What is where
 
