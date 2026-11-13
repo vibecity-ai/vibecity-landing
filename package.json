@@ -1,0 +1,11 @@
+{
+  "name": "vibecity-landing",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "rebuild": "node src/build.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.12"
+  }
+}
